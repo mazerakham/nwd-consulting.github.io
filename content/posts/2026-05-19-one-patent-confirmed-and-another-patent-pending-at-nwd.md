@@ -15,6 +15,6 @@ Sadie Gunnink's recent patent experience designing Rise Evolved helped inspire o
 
 After extensive study of generative AI performance across hundreds of topics spanning 11 academic subjects, Sarah developed a deep understanding of both the strengths and limitations of AI systems in educational environments. The EduMetrix Ecosystem was designed to leverage those strengths while accounting for their weaknesses. Positioned at the intersection of learning science, psychometrics, and strategic AI implementation, the platform is being developed as a tool to support educators both inside and outside the classroom.
 
-While the full details of the project remain confidential during development, the founder's statement can be found at [Edumetrix.ai](https://www.edumetrix.ai/).
+The full details of the project remain confidential during development.
 
 Educators interested in helping put the "Ed" back into EdTech can contact the team through the NWD Consulting Network website for partnership and compensation details as development of the platform and software continues.
